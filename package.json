@@ -1,0 +1,42 @@
+{
+  "name": "memesfr-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "cron": "^1.8.2",
+    "dom-storage": "^2.1.0",
+    "express": "^4.17.1",
+    "faye-websocket": "^0.11.3",
+    "firebase": "^8.6.1",
+    "firebase-admin": "^9.8.0",
+    "http-parser-js": "^0.5.3",
+    "idb": "^3.0.2",
+    "lodash.camelcase": "^4.3.0",
+    "long": "^4.0.0",
+    "node-fetch": "^2.6.1",
+    "promise-polyfill": "^8.1.3",
+    "protobufjs": "^6.11.2",
+    "safe-buffer": "^5.2.1",
+    "tslib": "^2.2.0",
+    "websocket-driver": "^0.7.4",
+    "websocket-extensions": "^0.1.4",
+    "whatwg-fetch": "^2.0.4",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OOO-OReilly/memesfr-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OOO-OReilly/memesfr-backend/issues"
+  },
+  "homepage": "https://github.com/OOO-OReilly/memesfr-backend#readme"
+}

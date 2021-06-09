@@ -1,0 +1,4 @@
+Download express
+Find a server to host this
+Implement a notification system
+Be sure that the code will execute on the server every hour
